@@ -1,21 +1,108 @@
-# 💫 About Me:
-🔭 I’m currently studying (student)<br>🌱 I’m currently learning "React"<br>⚡ Fun fact (İ don`t have any fun fact)
+<div align="center">
 
+```
+██████╗  █████╗ ███╗   ███╗ █████╗ ██╗
+██╔══██╗██╔══██╗████╗ ████║██╔══██╗██║
+██████╔╝███████║██╔████╔██║███████║██║
+██╔══██╗██╔══██║██║╚██╔╝██║██╔══██║██║
+██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huseynzade_r_14) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@H_Ramal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huseynzaderamal10@gmail.com) 
+### Developer · Entrepreneur · Builder
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=moderathor12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=moderathor12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moderathor12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+*Building digital infrastructure for Azerbaijan — one project at a time.*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![GitHub followers](https://img.shields.io/github/followers/moderathor12?style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/moderathor12)
+[![Profile views](https://komarev.com/ghpvc/?username=moderathor12&style=flat-square&color=0891b2)](https://github.com/moderathor12)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=moderathor12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 Haqqımda / About Me
+
+Azərbaycandan **full-stack developer** və **entrepreneur**. Sıfır büdcə ilə tam məhsullar yaratmağa inanıram — veb, mobil, AI və marka kimliyi bir arada.
+
+> *"Build fast, iterate faster, ship something Azerbaijanis actually use."*
+
+- 🏢 Founder @ **[Saytex](https://instagram.com/saytex_az)** — Web dizayn & satış agentliyi
+- 📱 Building **EduLoop** — Azərbaycanlı tələbələr üçün Android sosial öyrənmə platforması
+- 🎓 Building **ExamSheet** — Flutter-based OMR exam grading app
+- 🛣️ Building **AzRoadCam** — AI-powered traffic analysis platform
+- 🌱 Tech Lead @ **YES Azerbaijan** (Youth Environment Society)
+- 🎯 2026-da UNEC-ə qəbul hədəfi
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend & Web**
+```
+HTML/CSS · JavaScript · PHP · React (learning)
+```
+
+**Mobile**
+```
+Flutter · Dart · Android (Kotlin)
+```
+
+**Backend & Database**
+```
+Python · FastAPI · Supabase · MySQL
+```
+
+**AI & ML**
+```
+YOLOv8 · OpenCV · MediaPipe · Gemma (on-device) · CrewAI
+```
+
+**DevOps & Tools**
+```
+Git · GitHub Pages · Oracle Cloud · n8n · Linux (Debian)
+```
+
+---
+
+## 🚀 Aktiv Layihələr / Active Projects
+
+| Layihə | Stack | Status |
+|--------|-------|--------|
+| **ExamSheet** | Flutter · Riverpod · Isar · OpenCV | 🔨 Active Dev |
+| **EduLoop** | Android · Supabase · Gemma AI | 🔨 Active Dev |
+| **AzRoadCam** | FastAPI · YOLOv8 · React · Leaflet.js | 🔨 Active Dev |
+| **KhazarOS** | Debian · live-build · XFCE | 🧪 Experimental |
+| **Setnet Messenger** | Kotlin · BLE · X25519+AES-256-GCM | 📐 Design Phase |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ramal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moderathor12&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moderathor12&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=ffffff)
+
+</div>
+
+---
+
+## 🌐 Əlaqə / Connect
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Saytex_Agency-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saytex_az)
+[![Website](https://img.shields.io/badge/YES_Azerbaijan-4CAF50?style=for-the-badge&logo=leaflet&logoColor=white)](https://youthensoc.org)
+
+</div>
+
+---
+
+<div align="center">
+
+*🇦🇿 Bakı, Azərbaycan*
+
+**"Ship it. Fix it. Ship it again."**
+
+</div>
